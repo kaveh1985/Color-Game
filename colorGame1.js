@@ -1,0 +1,2 @@
+var greeting = "Holla123";
+
